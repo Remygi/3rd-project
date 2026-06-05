@@ -1,0 +1,23 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  color: white;
+}
+.box-big {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+  color: white;
+  position: relative;
+}
+.ctr{
+    display: flex;
+    justify-content: center;
+}
+
+.box_ctr{
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}

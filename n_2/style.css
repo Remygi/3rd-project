@@ -1,0 +1,12 @@
+.clmn{
+    display: flex;
+    flex-direction: column;
+}
+.children{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+.ctr{align-self: center;}
+.end{align-self: flex-end;}

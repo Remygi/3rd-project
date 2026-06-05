@@ -1,0 +1,30 @@
+.bg{
+    width: 400px;
+    height: 150px;
+    background-color: gray;
+    color: white;
+    position: absolute; 
+    right: 0px;
+    bottom: 0px;
+}
+
+.tp{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    /*right: 0px;*/
+    bottom: 0px;
+
+}
+
+.bttm{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}

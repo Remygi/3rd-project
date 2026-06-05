@@ -1,0 +1,14 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  color: white;
+}
+
+.box2 {background-color: gray;}
+
+.box2_mv{
+    position: relative;
+    left: 50px;
+    bottom: 50px; /*top: -50px;*/
+}
